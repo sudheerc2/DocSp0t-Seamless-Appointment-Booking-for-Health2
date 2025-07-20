@@ -5,46 +5,46 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 🚀 Features
 
-•	👨‍⚕️ Doctor & Patient Login
+  •	👨‍⚕️ Doctor & Patient Login
 
-•	📅 Book, Reschedule, and Cancel Appointments
+  •	📅 Book, Reschedule, and Cancel Appointments
 
-•	🔍 Search Doctors by Specialization & Location
+  •	🔍 Search Doctors by Specialization & Location
 
-•	🕒 Real-Time Slot Availability
+  •	🕒 Real-Time Slot Availability
 
-•	📬 Email Notifications for Booking Confirmation
+  •	📬 Email Notifications for Booking Confirmation
+ 
+  •	📜 Medical History Record Tracking
 
-•	📜 Medical History Record Tracking
-
-•	📱 Responsive UI (Mobile + Web Friendly)
+  •	📱 Responsive UI (Mobile + Web Friendly)
 
 🛠️ Tech Stack 
 
- •	Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
+   •	Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
- •	Backend: Node.js / Django / Flask (edit based on your stack)
+   •	Backend: Node.js / Django / Flask (edit based on your stack)
 
- •	Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
+   •	Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
 
- •	Authentication: JWT / Firebase / OAuth
+   •	Authentication: JWT / Firebase / OAuth
 
- •	Deployment: Vercel / Netlify / Heroku / Render
+   •	Deployment: Vercel / Netlify / Heroku / Render
 
 📸 Screenshots
 
 Home  DoctorSearch	 Booking
   	 	 
 ⚙️ Installation & Setup
-1.	Clone the repository:
-2.	git clone https://github.com/your-username/doctor-appointment-app.git
+   1.	Clone the repository:
+   2.	git clone https://github.com/your-username/doctor-appointment-app.git
 cd doctor-appointment-app
-3.	Install dependencies:
+   3.	Install dependencies:
 npm install
-4.	Set up environment variables: Create a .env file and add your configuration:
-5.	DB_URI=your_database_uri
+   4.	Set up environment variables: Create a .env file and add your configuration:
+   5.	DB_URI=your_database_uri
 JWT_SECRET=your_secret
-6.	Start the development server:
+   6.	Start the development server:
 npm start
 
 🧪 Testing 
@@ -57,23 +57,30 @@ npm test
 
 •	👨‍⚕️ Doctor Profile Management
 
-•	💬 In-App Chat with Doctor
+  •	💬 In-App Chat with Doctor
 
-•	📆 Calendar Sync (Google/Outlook)
+  •	📆 Calendar Sync (Google/Outlook)
 
-•	💳 Payment Gateway Integration
+  •	💳 Payment Gateway Integration
 
-•	🗣️ Multi-Language Support
+  •	🗣️ Multi-Language Support
 
 
 🐞 Known Issues
+
  •	No calendar sync yet.
+ 
  •	No push notification support (mobile).
+ 
  •	UI glitches on very small screen sizes.
  
+ 
 🤝 Contributing
+
  Contributions are welcome!
+ 
  Please fork the repository and submit a pull request.
+ 
  
 📄 License
  This project is licensed under the MIT License.
