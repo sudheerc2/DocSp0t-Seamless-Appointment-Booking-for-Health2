@@ -4,8 +4,7 @@
 A simple and efficient doctor appointment booking system that allows users to book, manage, and track doctor visits easily. This app aims to streamline the process for both patients and healthcare providers.
 
 🚀 Features
-
-   •	👨‍⚕️ Doctor & Patient Login
+    •	👨‍⚕️ Doctor & Patient Login
 
    •	📅 Book, Reschedule, and Cancel Appointments
 
@@ -83,7 +82,9 @@ npm test
  
  
 📄 License
+
  This project is licensed under the MIT License.
+ 
   Drive:  https://drive.google.com/drive/folders/1A5Zp9eHMjOyM0GqTKhE7mFq2abJMNtGm?usp=drive_link
  
   Live Demo :  https://drive.google.com/file/d/12-3ch50DrSODYYBgLl-0hnuqQ_Ng9DLt/view?usp=drivesdk
