@@ -34,6 +34,8 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 Home  DoctorSearch	 Booking
   	 	 
+
+
 ⚙️ Installation & Setup
    1.	Clone the repository:
    2.	git clone https://github.com/your-username/doctor-appointment-app.git
