@@ -21,15 +21,15 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 🛠️ Tech Stack 
 
-•	Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
+ •	Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
-•	Backend: Node.js / Django / Flask (edit based on your stack)
+ •	Backend: Node.js / Django / Flask (edit based on your stack)
 
-•	Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
+ •	Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
 
-•	Authentication: JWT / Firebase / OAuth
+ •	Authentication: JWT / Firebase / OAuth
 
-•	Deployment: Vercel / Netlify / Heroku / Render
+ •	Deployment: Vercel / Netlify / Heroku / Render
 
 📸 Screenshots
 
