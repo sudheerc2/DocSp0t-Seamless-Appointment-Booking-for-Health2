@@ -34,18 +34,23 @@ JWT_SECRET=your_secret
 npm start
 
 🧪 Testing 
+
  Run tests using:
+ 
 npm test
+
 📌 Future Enhancements
 •	👨‍⚕️ Doctor Profile Management
 •	💬 In-App Chat with Doctor
 •	📆 Calendar Sync (Google/Outlook)
 •	💳 Payment Gateway Integration
 •	🗣️ Multi-Language Support
+
 🐞 Known Issues
  •	No calendar sync yet.
  •	No push notification support (mobile).
  •	UI glitches on very small screen sizes.
+ 
 🤝 Contributing
  Contributions are welcome!
  Please fork the repository and submit a pull request.
