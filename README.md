@@ -5,9 +5,9 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 🚀 Features
 
-  •	👨‍⚕️ Doctor & Patient Login
+    •	👨‍⚕️ Doctor & Patient Login
 
-  •	📅 Book, Reschedule, and Cancel Appointments
+    •	📅 Book, Reschedule, and Cancel Appointments
 
   •	🔍 Search Doctors by Specialization & Location
 
